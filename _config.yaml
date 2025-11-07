@@ -1,13 +1,15 @@
-theme: jekyll-theme-primer
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # -----------------------------------------------------------------
 # サイトの基本情報 (Primerテーマで使われます)
 # -----------------------------------------------------------------
 # サイトのタイトル (ブラウザのタブやヘッダーに表示されます)
-title: [ここにあなたのポートフォリオのタイトルを記述]
+title: [mu-daiki ポートフォリオ]
 
 # サイトの簡単な説明 (検索エンジン向けや、テーマによっては表示されます)
-description: [ここにサイトの簡単な説明を記述（例：Taro Yamadaのポートフォリオサイト）]
+description: [mu-daikiのポートフォリオサイト]
 
 # -----------------------------------------------------------------
 # オプション (必要に応じて)
