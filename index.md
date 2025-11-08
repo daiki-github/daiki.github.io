@@ -55,13 +55,13 @@
   
 ---
 
-## 🛠️ 制作物 (Projects)
+## 🛠️ 開発実績 (Projects)
 
 ### [プロジェクト名 1]
 
-* **概要:** [視覚基盤モデルを用いた世界モデルの学習効率化]
-* **使用技術:** [Python]
-* **GitHubリポジトリ:** [https://github.com/mu-daiki/dreamerv3-torch-mae]
+* **概要:** 視覚基盤モデルを用いた世界モデルの学習効率化
+* **使用技術:** Python
+* **GitHubリポジトリ:** https://github.com/mu-daiki/dreamerv3-torch-mae
 <!--
 ### [プロジェクト名 2]
 
