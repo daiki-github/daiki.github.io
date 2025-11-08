@@ -73,9 +73,10 @@
 * **使用技術:** Python
 * **プロジェクト人数:** 3人
 * **GitHubリポジトリ:** https://github.com/mu-daiki/dreamerv3-torch-mae
-
+* 
+https://github.com/mu-daiki/dreamerv3-torch-mae
 ---
 
 ## 🔗 リンク (Links)
 
-* **GitHub:** https://github.com/mu-daiki
+* **GitHub:**  https://github.com/mu-daiki
