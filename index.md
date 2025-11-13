@@ -63,8 +63,8 @@
 
 ### 視覚基盤モデルを用いた世界モデルの学習効率化
 
-* **概要:** ImageNetで事前訓練したMAEを用いて，DreamerV3において再構成を伴わない世界モデルの学習を行った.
-* **使用技術:** Python
+* **概要:** ImageNetで事前訓練したMAEを用いて，DreamerV3において再構成を伴わない世界モデルの学習．
+* **使用言語・技術:** Python，PyTorch
 * **プロジェクト人数:** 3人
 * **GitHubリポジトリ:** [https://github.com/mu-daiki/dreamerv3-torch-mae](https://github.com/mu-daiki/dreamerv3-torch-mae)
 
@@ -73,6 +73,7 @@
 ## スキル
 
 * **プログラミング言語:** Python (PyTorch), C, Java
+* **使用技術:** PyTorch
 
 ## 🔗 リンク (Links)
 
